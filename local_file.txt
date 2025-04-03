@@ -1,0 +1,1 @@
+This is my S3 bucket sample file.
